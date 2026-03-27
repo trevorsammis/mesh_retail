@@ -1,0 +1,23 @@
+{
+  "name": "mesh-shoes-checkout",
+  "version": "1.0.0",
+  "description": "Mesh Shoes — a retail checkout demo powered by Mesh Connect crypto payments",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "node-fetch": "^2.7.0",
+    "uuid": "^9.0.1",
+    "crypto": "^1.0.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "keywords": ["mesh", "crypto", "payments", "usdc", "checkout"],
+  "license": "MIT"
+}
