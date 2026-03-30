@@ -30,8 +30,8 @@ The backend creates a one-time `linkToken` per checkout, and the frontend uses t
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/<your-username>/mesh-shoes-checkout.git
-cd mesh-shoes-checkout
+git clone https://github.com/trevorsammis/mesh_retail.git
+cd mesh_retail
 ```
 
 ### 2. Install dependencies
